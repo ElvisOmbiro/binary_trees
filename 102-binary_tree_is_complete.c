@@ -2,7 +2,7 @@
 #include <math.h>
 
 /**
- * binary_tree_is_complete - a program that Checks if binary tree is complete.
+ * binary_tree_is_complete - This is a program that Checks if binary tree is complete.
  * @tree: Pointer to the root node of the tree to check
  * Return: 1 if the tree is complete, 0 otherwise.
  */
