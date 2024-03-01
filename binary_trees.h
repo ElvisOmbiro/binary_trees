@@ -50,7 +50,10 @@ binary_tree_t *binary_tree_rotate_left(binary_tree_t *tree);
 binary_tree_t *binary_tree_rotate_right(binary_tree_t *tree);
 int binary_tree_is_bst(const binary_tree_t *tree);
 bst_t *bst_insert(bst_t **tree, int value);
+<<<<<<< HEAD
 bst_t *array_to_bst(int *array, size_t size);
 
+=======
+>>>>>>> 9d335f74dfdb0813e3175fb6a80b88fdcb75f0cc
 
 #endif /* _BINARY_TREES_H_ */
